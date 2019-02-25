@@ -39,4 +39,8 @@ public class ArrayWorker {
         }
         return max;
     }
+
+    public static void find() {
+
+    }
 }
